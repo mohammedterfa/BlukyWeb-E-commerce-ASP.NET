@@ -10,3 +10,4 @@ C:\Users\CreatorPC\source\repos\Bulky\Bulky.Utility\obj\Debug\net7.0\Bulky.Utili
 C:\Users\CreatorPC\source\repos\Bulky\Bulky.Utility\obj\Debug\net7.0\refint\Bulky.Utility.dll
 C:\Users\CreatorPC\source\repos\Bulky\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.pdb
 C:\Users\CreatorPC\source\repos\Bulky\Bulky.Utility\obj\Debug\net7.0\ref\Bulky.Utility.dll
+C:\Users\CreatorPC\source\repos\Bulky\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.sourcelink.json

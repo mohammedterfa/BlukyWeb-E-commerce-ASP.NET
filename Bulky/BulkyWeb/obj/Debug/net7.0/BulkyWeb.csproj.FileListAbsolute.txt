@@ -268,3 +268,4 @@ C:\Users\CreatorPC\source\repos\Bulky\BulkyWeb\bin\Debug\net7.0\Microsoft.Extens
 C:\Users\CreatorPC\source\repos\Bulky\BulkyWeb\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
 C:\Users\CreatorPC\source\repos\Bulky\BulkyWeb\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
 C:\Users\CreatorPC\source\repos\Bulky\BulkyWeb\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\CreatorPC\source\repos\Bulky\BulkyWeb\obj\Debug\net7.0\BulkyWeb.sourcelink.json
