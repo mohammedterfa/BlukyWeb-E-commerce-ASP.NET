@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "HCLaXZD3R2cUbODiZyoF5Exdo6fPnV5JUO/KU+x3rnS9J2dCW9kjUfoXhqeclzPumNzova1YjOOg7ivKDzFz7A==",
+  "dgSpecHash": "XzhrqF5ojt92FZ4yR7o2Oic2LjRmv2knXd664IxONBeHaq+ts8H4qmgYkxzRsnrtS1dSxaKn88Xj9QEG915+kA==",
   "success": true,
   "projectFilePath": "C:\\Users\\CreatorPC\\source\\repos\\Bulky\\BulkyWeb\\BulkyWeb.csproj",
   "expectedPackageFiles": [
@@ -183,6 +183,7 @@
     "C:\\Users\\CreatorPC\\.nuget\\packages\\runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\CreatorPC\\.nuget\\packages\\runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\CreatorPC\\.nuget\\packages\\runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
+    "C:\\Users\\CreatorPC\\.nuget\\packages\\stripe.net\\43.9.0\\stripe.net.43.9.0.nupkg.sha512",
     "C:\\Users\\CreatorPC\\.nuget\\packages\\system.appcontext\\4.3.0\\system.appcontext.4.3.0.nupkg.sha512",
     "C:\\Users\\CreatorPC\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
     "C:\\Users\\CreatorPC\\.nuget\\packages\\system.codedom\\4.4.0\\system.codedom.4.4.0.nupkg.sha512",
